@@ -1,0 +1,26 @@
+h1{
+	font-family:tahoma;
+	color:#43CD97;
+	text-decoration: underline;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	text-shadow: 1px darkred;
+}
+p{
+	text-indent: 25px;
+	color: white;
+}
+span{
+	font-variant: small-caps;
+	font-weight: bold;
+	text-shadow: 2px 2px 3px #D11E05;
+	color: white;
+}
+#external{
+	text-shadow: 2px 2px 5px palevioletred;
+	color: white;
+}
+body{
+	background:#316ADC;
+}
+
