@@ -1,0 +1,30 @@
+body{
+	border-style: solid;
+	border-color:#257C8E;
+	border-width: 10px;
+}
+
+.Div1{
+	background-color:#0073A1;
+	padding: 5px 5px 5px;
+	margin: auto; 
+}
+.Div2{
+	background-color:#36C5FF;
+	padding: 10px 10px 10px;
+	margin: auto;
+}
+h1{
+	font-family: arial;
+	color:##257C8E;
+	text-shadow: white 2px 2px;
+}
+ul{
+	font-family: arial;
+	color: whitesmoke;
+}
+img{
+	border-style:inset;
+	border-color: #257C8E;
+	border-width: 5px;
+}
