@@ -1,0 +1,24 @@
+img{
+	height: 300px;
+	padding: 20px;
+	border-radius: 50px;
+	border-style: solid;
+	border-color: white;
+	border-width: 2px;'
+	opacity: .75;
+}
+body{
+	background-color: black;
+	color: white;
+	text-align: center;
+	font-family: arial;
+}
+table{
+	margin-left: auto;
+	margin-right: auto;
+}
+h1{
+	test-transform: uppercase;
+	letter-spacing: 12px;
+
+}
