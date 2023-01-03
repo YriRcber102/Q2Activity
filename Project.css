@@ -1,0 +1,31 @@
+body{
+	border-style: solid;
+	border-color:#AF1414;
+	border-width: 10px;
+	text-shadow: darkred; 2px 2px;
+}
+
+table{
+    outline-color:#AF1414;
+}
+
+.Div1{
+	background-color:#C2C2C2;
+	padding: 5px 5px 5px;
+	margin: auto;
+}
+
+}
+.Div2{
+	background-color:#AF1414;
+	padding: 10px 10px 10px;
+	margin: auto;
+}
+
+h1{
+	font-family:Arial;
+	color:#C2C2C2;
+	text-transform: uppercase;
+	letter-spacing: 4px;
+	text-shadow: 1px darkgrey;
+}
